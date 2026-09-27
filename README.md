@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Rayyan &nbsp;·&nbsp; Kahramanmaraş, Türkiye &nbsp;·&nbsp; <a href="https://rayytor.github.io">rayytor.github.io</a>
+  Rayyan &nbsp;·&nbsp; Türkiye &nbsp;·&nbsp; <a href="https://rayytor.github.io">rayytor.github.io</a>
 </p>
 
 <br>

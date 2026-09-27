@@ -1,105 +1,136 @@
-<div align="center">
-
-  <!-- Animated Typing SVG Header -->
-  <a href="https://github.com/rayytor">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Rayyan+(%40rayytor)+%F0%9F%91%8B;Native+Linux+%26+GTK4%2FLibadwaita+Craftsman;AI+%26+RAG+Systems+Architect;Smartboard+%26+EdTech+Software+Hacker;Building+Fast%2C+Bloat-Free+Software" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <strong>Crafting snappy native Linux desktop experiences, modern AI retrieval systems, and bloat-free tools.</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/rayytor"><img src="https://img.shields.io/badge/Location-Kahramanmara%C5%9F%2C%20T%C3%BCrkiye-blue?style=for-the-badge&logo=googlemaps&logoColor=white&color=1e293b" alt="Location" /></a>
-    <a href="https://github.com/rayytor"><img src="https://img.shields.io/badge/Focus-Native_Linux_%7C_AI_%7C_EdTech-6366f1?style=for-the-badge&logo=linux&logoColor=white" alt="Focus" /></a>
-    <a href="https://github.com/rayytor"><img src="https://komarev.com/ghpvc/?username=rayytor&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-  </p>
-
-</div>
-
----
-
-### ⚡ About Me
-
-I am a software engineer and open-source craftsman based in **Kahramanmaraş, Türkiye**. I care deeply about **native performance, zero bloat, and purposeful software**.
-
-* 🐧 **Native Linux Desktop**: Deep affection for **GTK4, Libadwaita, and system-level utilities**. I believe desktop applications should be instant, memory-bounded, and respect system resources instead of packing heavy browser runtimes.
-* 🧠 **AI & Retrieval Engineering**: Creator of **[Konusbitr](https://github.com/rayytor/konusbitr)**, an open-source, self-hostable alternative to PDF.ai with exact-source page highlighting, pgvector indexing, and multimodal RAG.
-* 🏫 **EdTech & Smartboard Ecosystem**: Engineering high-performance tools for classrooms and smartboards—such as **[Interaktiv](https://github.com/rayytor/interaktiv)** (a lightning-fast dual-page PDF textbook reader) and **[Pardus Builder](https://github.com/rayytor/pardus-builder)** (visual GTK4 builder).
-* 🔒 **Systems & Hardware Hooks**: Building systemd daemons and hardware-driven automation like **[Kitlenk](https://github.com/rayytor/Kitlenk)** (proximity locking via Bluetooth and USB keys).
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🤖 **[Konusbitr](https://github.com/rayytor/konusbitr)** | **Self-hostable Document AI & RAG platform.** Chat with your PDFs and get instant answers with citations that pinpoint the exact page and highlight the source. | `Next.js` `FastAPI` `pgvector` `PyMuPDF` `TypeScript` |
-| 📖 **[Interaktiv](https://github.com/rayytor/interaktiv)** | **School Edition native textbook reader.** Blazing-fast GTK4/Libadwaita PDF reader for classroom smartboards with 2-page book spread, zero web overhead, and bounded memory footprint. | `Python` `GTK4` `Libadwaita` `PyGObject` `PyMuPDF` |
-| 🔒 **[Kitlenk](https://github.com/rayytor/Kitlenk)** | **Hardware proximity screen locker for Linux.** Turn any Bluetooth device or USB drive into a physical session key with an interactive TUI & adaptive systemd daemon. | `Python` `systemd` `D-Bus` `Bluetooth` `TUI` |
-| 🎨 **[Tyrmyk](https://github.com/rayytor/tyrmyk)** | **Standalone, offline-first image editor.** An upgraded and independent reincarnation of scratch-paint for vector & raster art right in the browser or desktop. | `JavaScript` `Canvas API` `Offline PWA` |
-| 🧱 **[Pardus Builder](https://github.com/rayytor/pardus-builder)** | **Visual block-based builder for GTK4 & Libadwaita.** Empowers makers and educators to assemble modern native Linux applications visually. | `GTK4` `Libadwaita` `Blockly` `Python` |
-| 🧹 **[Desloppify EBA](https://github.com/rayytor/desloppify-eba)** | **Decluttered, bloat-free educational client.** Strips trackers, unnecessary scripts, and AI bloat from educational portals for a clean learning experience. | `HTML/JS` `Lightweight Client` |
-
-</div>
-
----
-
-### 🛠️ Tech Arsenal
-
-<div align="center">
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,gtk,linux,bash,nextjs,react,fastapi,postgres,tailwind,git,docker,neovim&theme=dark" alt="Tech Stack Icons" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png">
+    <img alt="A libadwaita window describing Rayyan's Linux desktop work: GTK4 + libadwaita, system integration, touch and smartboards, and the apps Interaktiv, Insha, Rayyanpen, Marker, ybell and Kitlenk." src="assets/hero-dark.png" width="100%">
+  </picture>
 </p>
 
-#### **Desktop & System Development**
-`GTK4` • `Libadwaita` • `PyGObject` • `GTK3` • `Linux Mint / Pardus / Ubuntu` • `systemd` • `D-Bus` • `Bash`
+<p align="center">
+  Rayyan &nbsp;·&nbsp; Kahramanmaraş, Türkiye &nbsp;·&nbsp; <a href="https://rayytor.github.io">rayytor.github.io</a>
+</p>
 
-#### **AI, RAG & Data Engineering**
-`Retrieval-Augmented Generation (RAG)` • `pgvector` • `FastAPI` • `PyMuPDF` • `Document AI` • `PyTorch`
+<br>
 
-#### **Full-Stack & Web**
-`Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `PostgreSQL` • `Node.js` • `HTML5 / Canvas`
+## Linux desktop
 
-#### **Workflow & Tools**
-`Linux CLI` • `Git & GitHub Actions` • `Docker` • `Neovim` • `VS Code`
+Native apps for the touch whiteboards in Turkish classrooms (Pardus ETAP) and for everyday Debian and Ubuntu machines. Instant startup, bounded memory, no bundled browser runtime.
 
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/interaktiv-reader.png" alt="Interaktiv showing a chemistry textbook as a two-page spread" width="100%"><br>
+      <b><a href="https://github.com/rayytor/interaktiv">Interaktiv</a></b> · School Edition<br>
+      <sub>Textbook reader for classroom smartboards. Two-page book spread, activity hotspots with click-to-zoom, full-text search, four reading themes applied as GPU colour matrices. A spread draws in a millisecond or two, on a fixed memory budget.</sub><br>
+      <sub><code>Python</code> <code>GTK4</code> <code>libadwaita</code> <code>PyMuPDF</code> <code>WebKitGTK</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/insha.png" alt="Insha editor with Scratch-style blocks building a catch-the-apple game" width="100%"><br>
+      <b>Insha</b><br>
+      <sub>A block-based (no text) editor that builds real GTK4 + Python desktop apps. Humans drag Blockly blocks inside a native libadwaita window; AI agents edit the same project through a CLI and an MCP server. Both produce plain, readable PyGObject code.</sub><br>
+      <sub><code>Python</code> <code>GTK4</code> <code>Blockly</code> <code>MCP</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/marker.png" alt="Marker editing a scidown document with live preview" width="100%"><br>
+      <b><a href="https://github.com/rayytor/kecheli">Marker</a></b> · GTK4 port<br>
+      <sub>The Marker markdown editor brought to GTK4 and libadwaita: split editor and live preview, scidown scientific extensions, KaTeX math, beamer slides, sketch insertion.</sub><br>
+      <sub><code>C</code> <code>GTK4</code> <code>GtkSourceView</code> <code>WebKitGTK</code> <code>Meson</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/rayyanpen.png" alt="Rayyanpen floating toolbar with the settings panel open" width="100%"><br>
+      <b>Rayyanpen</b><br>
+      <sub>Draw on top of anything on a Linux screen: slides, web pages, video or a blank board. Built for ETAP touch whiteboards as a pardus-pen replacement, with the soft, smooth ink of the Draw on Screen browser extension. Fingers, styluses and mice all work.</sub><br>
+      <sub><code>C++</code> <code>Qt 6</code> <code>Meson</code> <code>multi-touch</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/interaktiv-library.png" alt="Interaktiv library with textbook covers filtered by grade" width="100%"><br>
+      <b><a href="https://github.com/rayytor/interaktiv">Interaktiv</a></b> · library<br>
+      <sub>The catalogue side of the same app: the MEB textbook list with grade filters, installs and previews, and finger-sized targets throughout.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/ybell.png" alt="ybell live ISO booted in QEMU showing the Xfce desktop" width="100%"><br>
+      <b>ybell</b> · in progress<br>
+      <sub>A lightweight Debian 13 based distribution whose whole point is compatibility: apt, Flatpak, Snap, AppImage, Fedora and Arch containers, Wine, Bottles and Proton, all behind one GTK4 store. Idle budget under 650 MB. Phase 1 boots; the store comes next.</sub><br>
+      <sub><code>Debian 13</code> <code>live-build</code> <code>Xfce</code> <code>Distrobox</code> <code>GTK4</code></sub>
+    </td>
+  </tr>
+</table>
 
----
+Also on the desktop side:
 
-### 📊 GitHub Activity & Metrics
+- **[Kitlenk](https://github.com/rayytor/Kitlenk)** turns any Bluetooth device or USB drive into a physical key for your session. A systemd user service locks the screen when the key goes away and unlocks when it returns, with hysteresis so a flaky connection never locks you out mid-sentence.
+- **Gelgit** is a small Qt desktop app for GNOME that sets up Git and GitHub once (SSH keys, keyring, remote) and then gets out of the way.
+- **[Pardus Builder](https://github.com/rayytor/pardus-builder)** is the public home for the block-based GTK4 and libadwaita builder. Empty for now, code lands soon.
 
-<div align="center">
+<br>
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rayytor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=9CA3AF&icon_color=6366F1" alt="rayytor's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=rayytor&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="rayytor's Streak Stats" width="48%" />
+## AI work
 
-  <br />
+Retrieval, document understanding and small trained models, mostly aimed at Turkish schools.
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rayytor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=9CA3AF" alt="Top Languages" width="60%" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/konusbitr.png" alt="Konusbitr document library" width="100%"><br>
+      <b><a href="https://github.com/rayytor/konusbitr">Konusbitr</a></b><br>
+      <sub>Open-source, self-hostable alternative to PDF.ai. Upload documents, chat with them, and get answers with clickable citations that jump to the exact page and highlight the source. Exposes a PDF.ai-wire-compatible <code>/v2</code> REST API.</sub><br>
+      <sub><code>Next.js</code> <code>FastAPI</code> <code>pgvector</code> <code>PyMuPDF</code> <code>Docker</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/e4m.png" alt="E4M lesson note generator home screen" width="100%"><br>
+      <b>E4M · Ders Notu Üretici</b><br>
+      <sub>Takes the official MEB question-distribution tables and the 100 to 400 MB MEB textbooks, slices the exact chapters an exam covers, and has Gemini write an exam-focused study note that prints pixel-for-pixel like the hand-made original.</sub><br>
+      <sub><code>FastAPI</code> <code>Gemini</code> <code>PyMuPDF</code> <code>headless Chrome PDF</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/denemedir.png" alt="Denemedir home screen with study calendar and daily goal" width="100%"><br>
+      <b><a href="https://github.com/rayytor/denemedir">Denemedir</a></b><br>
+      <sub>TYT practice-exam app. Ingests official exam PDFs, builds custom tests per subject, tracks mistakes, and grades filled answer sheets with an OpenCV pipeline plus a small neural bubble classifier (MarkerAI) trained on synthetic data.</sub><br>
+      <sub><code>Python</code> <code>OpenCV</code> <code>NumPy</code> <code>vanilla JS</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/rayytor/trainai">trainai</a></b><br>
+      <sub>The training and annotation pipeline behind Denemedir's answer detector: synthetic dataset generation, a NumPy-only network, and an annotation server for real sheets.</sub><br><br>
+      <b>Insha for agents</b><br>
+      <sub>Insha's core is headless. Every project operation is a JSON op applied through a CLI or the built-in MCP server, so Claude Code and other agents can build, validate, screenshot and ship a GTK4 app without touching the GUI.</sub><br><br>
+      <b>Agent-driven development</b><br>
+      <sub>Larger projects here (ybell, Rayyanpen, Insha) are built phase by phase by fresh AI agents working from written briefs, with hard gates like idle-RAM budgets and golden-image tests keeping them honest.</sub>
+    </td>
+  </tr>
+</table>
 
-</div>
+<br>
 
----
+## Web and other work
 
-### 💡 Engineering Philosophy
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/tyrmyk.png" alt="Tyrmyk vector editor with a smiling purple face on the canvas" width="100%"><br>
+      <b><a href="https://github.com/rayytor/tyrmyk">Tyrmyk</a></b><br>
+      <sub>Standalone, offline-first image editor: a rebranded and upgraded scratch-paint with vector and bitmap modes, multiple costumes, and IndexedDB storage. Installs as a PWA or runs as a desktop app.</sub><br>
+      <sub><code>JavaScript</code> <code>Canvas</code> <code>PWA</code> <code>zero runtime deps</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/trigonometri.png" alt="Trigonometri Rehberi home page listing guides, formulas and labs" width="100%"><br>
+      <b>Trigonometri Rehberi</b><br>
+      <sub>A study portal for the MEB trigonometry unit: step-by-step guides, a formula library with proofs, interactive labs (unit circle, triangle solver), solved problems and progress tracking.</sub><br>
+      <sub><code>React</code> <code>TypeScript</code> <code>Vite</code></sub>
+    </td>
+  </tr>
+</table>
 
-> *"If a tool can run natively in 30MB of RAM with instant startup, it doesn't need a 500MB browser runtime."*
+- **[Desloppify EBA](https://github.com/rayytor/desloppify-eba)** is a lightweight client for eba.gov.tr that strips the AI widgets, tracking scripts and UI clutter.
+- **[Microphone extension for TurboWarp](https://github.com/rayytor/Microphone-Turbowarp-Extension)** gives Scratch projects real microphone input.
 
-* **Performance First**: Native code, hardware acceleration, and strictly bounded memory usage.
-* **Distraction-Free**: Build tools that get out of the user's way and respect their time, attention, and privacy.
-* **Educational Empowerment**: Creating software that makes classroom technology faster, more accessible, and easier to use.
+<br>
 
----
-
-<div align="center">
-
-  **Let's build something fast and meaningful.**
-
-  🌐 [rayytor.github.io](https://rayytor.github.io) &nbsp;•&nbsp; 🐙 [@rayytor](https://github.com/rayytor) &nbsp;•&nbsp; 📍 Kahramanmaraş, Türkiye
-
-</div>
+<p align="center">
+  <sub>Screenshots are of real builds on this machine. The libadwaita window at the top is rendered with <code>GskRenderer.render_texture</code> from a running GTK4 app.</sub>
+</p>
